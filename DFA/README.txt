@@ -1,0 +1,1 @@
+this is a data representation of a Deterministic Finite Automata. Please message me with any questions (Paul.Cardoos001@umb.edu). dfa-union will take two xml files that represent valid transition tables for two DFAs parses it out and then unionizes them. You can use the makefile to run my code.   
